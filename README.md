@@ -1,2 +1,2 @@
-# -NationalHighSchoolData-cn
+# NationalHighSchoolData-cn
  National high school data
