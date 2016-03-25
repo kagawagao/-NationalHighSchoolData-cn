@@ -1,8 +1,8 @@
 {
   "name": "national-high-school",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "national high school data",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "build": "babel src --out-dir lib",
     "test": "echo \"Error: no test specified\" && exit 1"
