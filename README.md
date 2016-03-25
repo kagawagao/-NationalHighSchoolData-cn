@@ -1,6 +1,7 @@
 # NationalHighSchoolData-cn
 > National high school data of China
 ---
+
 # Install
 
 ```bash
