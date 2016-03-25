@@ -18,7 +18,7 @@ import NationalHighSchoolData from 'national-high-school'
 * get all schools
 * @return {array} schools - school list
 */
-NationalHighSchoolData.schools ()
+NationalHighSchoolData.schools()
 ```
 
 ```javascript
@@ -27,7 +27,7 @@ NationalHighSchoolData.schools ()
 * @param  {string | number} code - school code
 * @return {object} school - school instance
 */
-NationalHighSchoolData.getByCode (code)
+NationalHighSchoolData.getByCode(code)
 ```
 
 ```javascript
@@ -36,7 +36,7 @@ NationalHighSchoolData.getByCode (code)
 * @param  {string | number} areaCode - area code
 * @return {array} schools - school list
 */
-NationalHighSchoolData.getByAreaCode (areaCode)
+NationalHighSchoolData.getByAreaCode(areaCode)
 ```
 
 ```javascript
@@ -45,5 +45,5 @@ NationalHighSchoolData.getByAreaCode (areaCode)
 * @param  {string} name - school name
 * @return {array} schools - school list
 */
-NationalHighSchoolData.searchByName (name)
+NationalHighSchoolData.searchByName(name)
 ```
