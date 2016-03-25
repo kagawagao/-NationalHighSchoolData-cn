@@ -4,7 +4,7 @@
 # Install
 
 ```bash
-$ npm install nantion-high-school --save
+$ npm install national-high-school --save
 ```
 
 # Use
