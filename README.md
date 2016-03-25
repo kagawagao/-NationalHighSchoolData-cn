@@ -14,7 +14,8 @@ import NationalHighSchoolData from 'national-high-school'
 ```
 
 # API
-## Get all schools
+- Get all schools
+
 ```javascript
 /**
 * get all schools
@@ -23,7 +24,8 @@ import NationalHighSchoolData from 'national-high-school'
 NationalHighSchoolData.schools()
 ```
 
-## Get school by school code
+- Get school by school code
+
 ```javascript
 /**
 * get school by school code
@@ -33,7 +35,8 @@ NationalHighSchoolData.schools()
 NationalHighSchoolData.getByCode(code)
 ```
 
-## Get school by area code
+- Get school by area code
+
 ```javascript
 /**
 * get schools by area code
@@ -42,7 +45,8 @@ NationalHighSchoolData.getByCode(code)
 */
 NationalHighSchoolData.getByAreaCode(areaCode)
 ```
-## Search school by name
+- Search school by name
+
 ```javascript
 /**
 * search school by name
