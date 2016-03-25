@@ -1,7 +1,7 @@
 {
   "name": "national-high-school",
-  "version": "1.0.0",
-  "description": "nation hight school data",
+  "version": "1.0.1",
+  "description": "national high school data",
   "main": "index.js",
   "scripts": {
     "build": "babel src --out-dir lib",
