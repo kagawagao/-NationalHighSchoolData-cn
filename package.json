@@ -1,6 +1,6 @@
 {
   "name": "national-high-school",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "national high school data",
   "main": "lib/index.js",
   "scripts": {
